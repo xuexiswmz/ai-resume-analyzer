@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;xuexiswmz&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:xuexiswmz/ai-resume-analyzer.git",
-    "accountId": "d9656168-2abf-4d12-9a83-ec246a86cf2e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:xuexiswmz/ai-resume-analyzer.git&quot;,
+    &quot;accountId&quot;: &quot;d9656168-2abf-4d12-9a83-ec246a86cf2e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -53,7 +53,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feat/loginPage",
+    "git-widget-placeholder": "develop",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/bmh/WebstormProjects/ai-resume-analyzer/app/component",
     "node.js.detected.package.eslint": "true",
@@ -99,6 +99,7 @@
       <updated>1758519907628</updated>
       <workItem from="1758519908558" duration="6187000" />
       <workItem from="1758596755355" duration="4655000" />
+      <workItem from="1758618960977" duration="2199000" />
     </task>
     <servers />
   </component>
