@@ -20,22 +20,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "xuexiswmz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xuexiswmz&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/xuexiswmz/ai-resume-analyzer.git",
+    "url": "git@github.com:xuexiswmz/ai-resume-analyzer.git",
     "accountId": "d9656168-2abf-4d12-9a83-ec246a86cf2e"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="332f5nC96InUrSM6wG13gDR5TC4" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,8 +51,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "feat/loginPage",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/bmh/WebstormProjects/ai-resume-analyzer/app/component",
     "node.js.detected.package.eslint": "true",
@@ -97,6 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758519907628</updated>
       <workItem from="1758519908558" duration="6187000" />
+      <workItem from="1758596755355" duration="4655000" />
     </task>
     <servers />
   </component>
